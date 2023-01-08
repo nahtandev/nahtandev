@@ -13,3 +13,13 @@
 - 🌱 I’m currently learning **how to be a better developer who uses code to solve real-world problems.**
 
 - 📫 How to reach me **gnankadjanathan@gmail.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/nahtandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nahtandev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nathan-gnankadja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imdad-adelabou-a4056919a" height="30" width="40" /></a>
+<a href="https://nahtandev.medium.com" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="@nahtandev" height="30" width="40" /></a>
+</p>
+
