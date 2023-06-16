@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/nahtandev" target="blank"><img src="https://img.shields.io/twitter/follow/nahtandev?logo=twitter&style=for-the-badge" alt="NathanDev" /></a> </p>
 
 
-- 🔭 I’m currently working on [Benin Machine API](https://github.com/Gnankadja/benin-machine) and others projects.
+- 🔭 I’m currently working on some projects to improve my skills and learn news things.
 
 - 🌱 I’m currently learning **how to be a better developer who uses code to solve real-world problems.**
 
