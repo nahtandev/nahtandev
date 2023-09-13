@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahtandev" alt="Nathan Dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nahtandev" target="blank"><img src="https://img.shields.io/twitter/follow/nahtandev?logo=twitter&style=for-the-badge" alt="NathanDev" /></a> </p>
 
 
 - 🔭 I’m currently working on some projects to improve my skills and learn news things.
