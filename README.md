@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to be a better developer who uses code to solve real-world problems.**
 
-- 📫 How to reach me **gnankadjanathan@gmail.com**
+- 📫 How to reach me **sayme@hellonathan.dev**
 
 ---
 ***Languages and Tools*** :
